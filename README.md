@@ -57,7 +57,7 @@ Below are a few sample wireframes from the project:
 
 **Admin Module**  
 ![Coupon Management](5_Wireframes/Wireframe_5_Admin%20(Coupon%20Management).png)  
-![Coupon Created](5_Wireframes/Wireframe_8_Admin%20(Coupon%20Created).png)  
+![Coupon Created](5_Wireframes/Wireframe_8_Admin%20(Coupon%20Created%20Successfully).png)  
 
 ---
 
