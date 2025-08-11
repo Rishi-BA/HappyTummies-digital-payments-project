@@ -53,11 +53,11 @@ Below are a few sample wireframes from the project:
 
 **User Module**  
 ![Checkout](5_Wireframes/Wireframe_1_User%20(Checkout).png)  
-![Order Confirmed](5_Wireframes/Wireframe_2_User%20(Order_Confirmed).png)  
+![Order Confirmed](5_Wireframes/Wireframe_2_User%20(Order%20Confirmed).png)  
 
 **Admin Module**  
-![Coupon Management](5_Wireframes/Wireframe_5_Admin%20(Coupon_Management).png)  
-![Coupon Created](5_Wireframes/Wireframe_8_Admin%20(Coupon_Created).png)  
+![Coupon Management](5_Wireframes/Wireframe_5_Admin%20(Coupon%20Management).png)  
+![Coupon Created](5_Wireframes/Wireframe_8_Admin%20(Coupon%20Created).png)  
 
 ---
 
