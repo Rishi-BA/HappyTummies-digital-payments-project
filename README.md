@@ -52,22 +52,22 @@ Develop a **web-based platform** with:
 Below are a few sample wireframes from the project:
 
 **User Module**  
-![Checkout](5_Wireframes/Wireframe_1_User_(Checkout).png)  
-![Order Confirmed](5_Wireframes/Wireframe_2_User_(Order_Confirmed).png)  
+![Checkout](5_Wireframes/Wireframe_1_User%20(Checkout).png)  
+![Order Confirmed](5_Wireframes/Wireframe_2_User%20(Order_Confirmed).png)  
 
 **Admin Module**  
-![Coupon Management](5_Wireframes/Wireframe_5_Admin_(Coupon_Management).png)  
-![Coupon Created](5_Wireframes/Wireframe_8_Admin_(Coupon_Created).png)  
+![Coupon Management](5_Wireframes/Wireframe_5_Admin%20(Coupon_Management).png)  
+![Coupon Created](5_Wireframes/Wireframe_8_Admin%20(Coupon_Created).png)  
 
 ---
 
 ## 📊 Process Flow Samples
 **User Side**  
-![As-Is User Process](6_Process_Flows/As-Is_Process_(User).png)  
-![To-Be User Process](6_Process_Flows/To-Be_Process_(User).png)  
+![As-Is User Process](6_Process_Flows/As-Is%20Process%20(User).png)  
+![To-Be User Process](6_Process_Flows/To-Be%20Process%20(User).png)  
 
 **Admin Side**  
-![To-Be Admin Process](6_Process_Flows/To-Be_Process_(Admin).png)  
+![To-Be Admin Process](6_Process_Flows/To-Be%20Process%20(Admin).png)  
 
 ---
 
