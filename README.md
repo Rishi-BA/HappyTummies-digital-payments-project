@@ -1,4 +1,6 @@
-[![HappyTummies Project Banner](5_Wireframes/HappyTummies_Banner.png)](5_Wireframes/HappyTummies_Banner.png)
+<p align="center">
+    <img src="5_Wireframes/HappyTummies_Banner.png" alt="HappyTummies Project Banner">
+</p>
 
 # HappyTummies – Online Food Ordering System
 
