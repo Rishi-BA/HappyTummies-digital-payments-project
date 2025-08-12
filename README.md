@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="5_Wireframes/HappyTummies_Bannerr.png" alt="HappyTummies-Online-Food-Ordering Banner">
+    <img src="5_Wireframes/HappyTummies_Banner.png" alt="HappyTummies-Online-Food-Ordering Banner">
 </p>
 
 # HappyTummies – Online Food Ordering System
