@@ -1,4 +1,4 @@
-[![HappyTummies Project Banner](5_Wireframes/HappyTummies_Banner0.png)](5_Wireframes/HappyTummies_Banner0.png)
+[![HappyTummies Project Banner](5_Wireframes/HappyTummies_Banner.png)](5_Wireframes/HappyTummies_Banner.png)
 
 # HappyTummies – Online Food Ordering System
 
