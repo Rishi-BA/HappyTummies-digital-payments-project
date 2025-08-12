@@ -1,6 +1,6 @@
 [![HappyTummies Project Banner](5_Wireframes/HappyTummies_Banner.png)](5_Wireframes/HappyTummies_Banner.png)
 
-# HappyTummies – Online Food Ordering & Coupon Management System
+# HappyTummies – Online Food Ordering System
 
 ## 📌 Project Overview
 This repository contains the **complete business analysis documentation** for **HappyTummies**, a dual-interface system designed for both customers and administrators.  
